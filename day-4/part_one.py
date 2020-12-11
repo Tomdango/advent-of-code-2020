@@ -1,3 +1,7 @@
+# Advent of Code 2020
+# Day Four - Part One
+# Thomas Judd-Cooper
+
 class Passport:
     VALID_FIELDS = ["byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid", "cid"]
 

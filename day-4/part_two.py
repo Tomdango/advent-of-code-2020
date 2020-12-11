@@ -1,3 +1,7 @@
+# Advent of Code 2020
+# Day Four - Part Two
+# Thomas Judd-Cooper
+
 from part_one import Passport
 from string import hexdigits
 import re
